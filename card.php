@@ -9,7 +9,7 @@
 </head>
 <body>
 	<header>
-	<p><h2>Datos enviados correctamente</h2></p>
+	<p><h2>Datos enviados muy bien</h2></p>
 	</header>
 
     <div>
